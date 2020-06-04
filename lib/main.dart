@@ -42,7 +42,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       color: Theme.AppColors.orange[500],
       home: Home(),
-//      home:  DashBoard(),
+    //  home:  DashBoard(),
       theme: Theme.appThemeData,
     );
   }
