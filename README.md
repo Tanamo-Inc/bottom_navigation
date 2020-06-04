@@ -1,6 +1,7 @@
 # Bottom Navigation
 
-A new Flutter application using bottom navigation.
+A new Flutter application using bottom navigation works on Android,IOS and Web.
+
 
 
 
